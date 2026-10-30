@@ -1,0 +1,5 @@
+node_modules/
+.aurabot-cache/
+*.log
+needs.json
+removed/
