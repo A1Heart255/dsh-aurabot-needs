@@ -1,0 +1,13 @@
+{
+  "name": "dsh-aurabot-needs",
+  "version": "1.2.1",
+  "description": "Aurabot 生理需求模块：饥饿、口渴、疲劳、困意；自动吃饭睡觉，睡着时只回一句在睡觉",
+  "private": true,
+  "keywords": [
+    "dsh",
+    "aurabot",
+    "qq",
+    "persona",
+    "needs"
+  ]
+}
